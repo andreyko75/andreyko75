@@ -1,4 +1,5 @@
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-profile-readme/github-profile-readme.png" alt="Привет баннер" width="600">
+<div align="center">
+  <img src="https://octodex.github.com/images/nyantocat.gif" alt="Nyantocat" width="600">
 </div>
 
 # Привет! 👋 Я Андрей
@@ -23,31 +24,41 @@
 
 ## 🛠 Технологии и инструменты
 
-**Языки:** Python, SQL, Markdown  
-**Библиотеки:** Pandas, AsyncOpenAI, aiogram, openpyxl  
-**Базы данных:** PostgreSQL, SQLite  
-**Инструменты:** Git, Docker, n8n, ISPmanager, Linux Ubuntu
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2C2C2C)
+![openpyxl](https://img.shields.io/badge/openpyxl-2C2C2C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B62?logo=n8n&logoColor=white)
+![ISPmanager](https://img.shields.io/badge/ISPmanager-1f1f1f)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ---
 
 ## 🤖 AI-инструменты
 
-**Текстовые:**
-- <img src="https://img.icons8.com/color/32/openai.png" alt="OpenAI"/> OpenAI (GPT-4o, GPT-4o-mini)
-- <img src="https://img.icons8.com/fluency/32/chat.png" alt="GigaChat"/> GigaChat
-- <img src="https://img.icons8.com/color/32/yandex-international.png" alt="Яндекс GPT"/> Яндекс GPT
-- <img src="https://img.icons8.com/color/32/gemini.png" alt="Gemini"/> Gemini
+**Текстовые:**  
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![GigaChat](https://img.shields.io/badge/GigaChat-2C2C2C)
+![Яндекс GPT](https://img.shields.io/badge/Яндекс_GPT-FF0000?logo=yandex&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 
-**Визуальные:**
-- <img src="https://img.icons8.com/color/32/artificial-intelligence.png" alt="DALL-E"/> DALL·E
-- <img src="https://img.icons8.com/external-flat-juicy-fish/32/external-video-ai-machine-learning-flat-flat-juicy-fish.png" alt="Kling"/> Kling
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/32/external-robot-artificial-intelligence-flaticons-lineal-color-flat-icons-3.png" alt="Hailuo"/> Hailuo
-- <img src="https://img.icons8.com/external-flat-juicy-fish/32/external-image-ai-machine-learning-flat-flat-juicy-fish.png" alt="Flux"/> Flux
+**Визуальные:**  
+![DALL·E](https://img.shields.io/badge/DALL·E-412991?logo=openai&logoColor=white)
+![Kling](https://img.shields.io/badge/Kling-2C2C2C)
+![Hailuo](https://img.shields.io/badge/Hailuo-2C2C2C)
+![Flux](https://img.shields.io/badge/Flux-2C2C2C)
 
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-robot-futuristic-technology-flaticons-lineal-color-flat-icons.png" alt="Смешной робот" width="200">
+  <img src="https://octodex.github.com/images/Robotocat.png" alt="Robotocat" width="220"><br>
+  <sub>Иногда я — этот кот. И это нормально.</sub>
 </div>
 
 ---
@@ -67,6 +78,12 @@ _Раздел будет пополняться по мере выкладыва
 
 ---
 
+## 🎭 Немного юмора (обновляется автоматически)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=white&aColor=%23ffa657)
+
+---
+
 ## 📬 Контакты
 - Email: andreyko75@gmail.com
 - Telegram: [@hunter_xv](https://t.me/hunter_xv)
@@ -75,6 +92,6 @@ _Раздел будет пополняться по мере выкладыва
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/512/external-idea-brainstorm-wanicon-lineal-color-wanicon.png" alt="Главное желание" width="200"><br>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="220"><br>
   <em>Главное — желание. Остальное можно построить.</em>
 </div>
