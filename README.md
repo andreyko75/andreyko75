@@ -1,5 +1,4 @@
-  <img src="https://octodex.github.com/images/inspectocat.jpg" alt="Banner" width="500">
-</div>
+
 
 # Привет! 👋 Я Андрей
 
