@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/84IRdP8.png" alt="Привет баннер" width="600">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-profile-readme/github-profile-readme.png" alt="Привет баннер" width="600">
 </div>
 
 # Привет! 👋 Я Андрей
@@ -34,21 +33,21 @@
 ## 🤖 AI-инструменты
 
 **Текстовые:**
-- ![OpenAI](https://img.icons8.com/color/32/openai.png) OpenAI (GPT-4o, GPT-4o-mini)
-- ![GigaChat](https://i.imgur.com/72qFm6D.png) GigaChat
-- ![Yandex GPT](https://i.imgur.com/ksDwP2f.png) Яндекс GPT
-- ![Gemini](https://i.imgur.com/GF1mhMd.png) Gemini
+- <img src="https://img.icons8.com/color/32/openai.png" alt="OpenAI"/> OpenAI (GPT-4o, GPT-4o-mini)
+- <img src="https://img.icons8.com/fluency/32/chat.png" alt="GigaChat"/> GigaChat
+- <img src="https://img.icons8.com/color/32/yandex-international.png" alt="Яндекс GPT"/> Яндекс GPT
+- <img src="https://img.icons8.com/color/32/gemini.png" alt="Gemini"/> Gemini
 
 **Визуальные:**
-- ![DALL·E](https://i.imgur.com/k9JfVpw.png) DALL·E
-- ![Kling](https://i.imgur.com/m0gkZ4l.png) Kling
-- ![Hailuo](https://i.imgur.com/8mrT5HH.png) Hailuo
-- ![Flux](https://i.imgur.com/x5UNtFw.png) Flux
+- <img src="https://img.icons8.com/color/32/artificial-intelligence.png" alt="DALL-E"/> DALL·E
+- <img src="https://img.icons8.com/external-flat-juicy-fish/32/external-video-ai-machine-learning-flat-flat-juicy-fish.png" alt="Kling"/> Kling
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/32/external-robot-artificial-intelligence-flaticons-lineal-color-flat-icons-3.png" alt="Hailuo"/> Hailuo
+- <img src="https://img.icons8.com/external-flat-juicy-fish/32/external-image-ai-machine-learning-flat-flat-juicy-fish.png" alt="Flux"/> Flux
 
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/kJf3cfM.png" alt="Смешной робот" width="400">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-robot-futuristic-technology-flaticons-lineal-color-flat-icons.png" alt="Смешной робот" width="200">
 </div>
 
 ---
@@ -76,6 +75,6 @@ _Раздел будет пополняться по мере выкладыва
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/1AsT2uP.png" alt="Главное желание" width="400"><br>
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/512/external-idea-brainstorm-wanicon-lineal-color-wanicon.png" alt="Главное желание" width="200"><br>
   <em>Главное — желание. Остальное можно построить.</em>
 </div>
