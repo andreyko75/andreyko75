@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://octodex.github.com/images/nyantocat.gif" alt="Nyantocat" width="600">
+  <img src="https://octodex.github.com/images/inspectocat.jpg" alt="Banner" width="500">
 </div>
 
 # Привет! 👋 Я Андрей
@@ -18,6 +17,7 @@
 - RAG-системы для поиска и анализа данных
 - Анализ экономических данных
 - Развёртывание и настройка VDS-сервера на Linux Ubuntu
+- Работа с API
 - Контент-проекты с использованием AI
 
 ---
@@ -43,10 +43,12 @@
 ## 🤖 AI-инструменты
 
 **Текстовые:**  
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![OpenAI / ChatGPT](https://img.shields.io/badge/OpenAI%20%2F%20ChatGPT-412991?logo=openai&logoColor=white)
 ![GigaChat](https://img.shields.io/badge/GigaChat-2C2C2C)
 ![Яндекс GPT](https://img.shields.io/badge/Яндекс_GPT-FF0000?logo=yandex&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-2C2C2C)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-2C2C2C)
 
 **Визуальные:**  
 ![DALL·E](https://img.shields.io/badge/DALL·E-412991?logo=openai&logoColor=white)
@@ -57,7 +59,7 @@
 ---
 
 <div align="center">
-  <img src="https://octodex.github.com/images/Robotocat.png" alt="Robotocat" width="220"><br>
+  <img src="https://octodex.github.com/images/Robotocat.png" alt="Robotocat" width="200"><br>
   <sub>Иногда я — этот кот. И это нормально.</sub>
 </div>
 
@@ -92,6 +94,6 @@ _Раздел будет пополняться по мере выкладыва
 ---
 
 <div align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="220"><br>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="200"><br>
   <em>Главное — желание. Остальное можно построить.</em>
 </div>
