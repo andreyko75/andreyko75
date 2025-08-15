@@ -1,19 +1,81 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">I'm not a professional developer, I'm just learning.</h3>
+<div align="center">
+  <img src="https://i.imgur.com/84IRdP8.png" alt="Привет баннер" width="600">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreyko75&label=Profile%20views&color=0e75b6&style=flat" alt="andreyko75" /> </p>
+# Привет! 👋 Я Андрей
 
-- 🌱 I’m currently learning **Python, Pandas,and little django**
+Изучаю современные технологии искусственного интеллекта, автоматизации и работы с данными.  
+Этот репозиторий — место для моих учебных и практических проектов.  
+И немного для весёлых экспериментов, чтобы учёба была в кайф 😄
 
-- 📫 How to reach me **andreyko75@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/andreyko75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andreyko75" height="30" width="40" /></a>
-<a href="https://instagram.com/hunter_xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunter_xv" height="30" width="40" /></a>
-</p>
+## 🚀 Чем занимаюсь сейчас
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Создание Telegram-ботов с AI-интеграцией (aiogram, openai, webhook)
+- Автоматизация процессов через n8n
+- Работа с AI-инструментами (текстовые и визуальные)
+- RAG-системы для поиска и анализа данных
+- Анализ экономических данных
+- Развёртывание и настройка VDS-сервера на Linux Ubuntu
+- Контент-проекты с использованием AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreyko75&show_icons=true&locale=en" alt="andreyko75" /></p>
+---
+
+## 🛠 Технологии и инструменты
+
+**Языки:** Python, SQL, Markdown  
+**Библиотеки:** Pandas, AsyncOpenAI, aiogram, openpyxl  
+**Базы данных:** PostgreSQL, SQLite  
+**Инструменты:** Git, Docker, n8n, ISPmanager, Linux Ubuntu
+
+---
+
+## 🤖 AI-инструменты
+
+**Текстовые:**
+- ![OpenAI](https://img.icons8.com/color/32/openai.png) OpenAI (GPT-4o, GPT-4o-mini)
+- ![GigaChat](https://i.imgur.com/72qFm6D.png) GigaChat
+- ![Yandex GPT](https://i.imgur.com/ksDwP2f.png) Яндекс GPT
+- ![Gemini](https://i.imgur.com/GF1mhMd.png) Gemini
+
+**Визуальные:**
+- ![DALL·E](https://i.imgur.com/k9JfVpw.png) DALL·E
+- ![Kling](https://i.imgur.com/m0gkZ4l.png) Kling
+- ![Hailuo](https://i.imgur.com/8mrT5HH.png) Hailuo
+- ![Flux](https://i.imgur.com/x5UNtFw.png) Flux
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/kJf3cfM.png" alt="Смешной робот" width="400">
+</div>
+
+---
+
+## 📂 Проекты
+
+_Раздел будет пополняться по мере выкладывания работ._
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+
+---
+
+## 🎯 Цель репозитория
+Собрать **портфолио учебных и практических проектов** в одном месте.  
+Каждый проект — отдельная папка с кодом, документацией и описанием.
+
+---
+
+## 📬 Контакты
+- Email: andreyko75@gmail.com
+- Telegram: [@hunter_xv](https://t.me/hunter_xv)
+- GitHub: [andreyko75](https://github.com/andreyko75)
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/1AsT2uP.png" alt="Главное желание" width="400"><br>
+  <em>Главное — желание. Остальное можно построить.</em>
+</div>
