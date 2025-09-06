@@ -72,6 +72,7 @@ _Раздел будет пополняться по мере выкладыва
 |--------|----------|------|
 | [News CLI](https://github.com/andreyko75/api_news_learn) | Консольный скрипт для поиска новостей по ключевым словам через NewsAPI. Учебный проект для освоения работы с API, обработки JSON и ошибок. | Python, requests, python-dotenv |
 | [Video Generator](https://github.com/andreyko75/pixabay_api) | Автоматическое создание маркетинговых видеороликов с логотипами через Pixabay API. Поиск видео, добавление логотипов, создание сетки 2x2. Учебный проект для освоения работы с видео API, MoviePy и автоматизации. | Python, MoviePy, requests, python-dotenv, tqdm |
+| [FusionBrain Image Generator](https://github.com/andreyko75/fusionbrain_api) | Генерация изображений с помощью ИИ через FusionBrain API (модель Kandinsky). Консольный и веб-клиент с современным интерфейсом, выбором размеров, копированием и скачиванием. Учебный проект для освоения работы с AI API, Flask и веб-разработки. | Python, Flask, requests, python-dotenv, Pillow, HTML5, CSS3, JavaScript |
 
 ---
 
