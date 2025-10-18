@@ -8,39 +8,40 @@
 
 ## 🚀 Чем занимаюсь сейчас
 
-- Создание Telegram-ботов с AI-интеграцией (aiogram, openai, webhook)
-- Автоматизация процессов через n8n
-- Работа с AI-инструментами (текстовые и визуальные)
-- RAG-системы для поиска и анализа данных
-- Анализ экономических данных
-- Развёртывание и настройка VDS-сервера на Linux Ubuntu
-- Работа с API
-- Контент-проекты с использованием AI
+- Разработка Telegram-ботов с AI-интеграцией (aiogram + OpenAI API)
+- Создание LLM-приложений и цепочек через LangChain
+- Применение техник промпт-инжиниринга (Zero-Shot, Few-Shot, CoT, CoV и др.)
+- Автоматизация процессов через n8n и API-интеграции
+- RAG-системы для анализа и поиска данных
+- Развёртывание и настройка VDS-серверов (Linux Ubuntu, Nginx, SSL)
+- Контент- и AI-проекты (визуальные и текстовые генерации)
 
 ---
 
 ## 🛠 Технологии и инструменты
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C2C2C)
+![OpenAI_API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2C2C2C)
-![openpyxl](https://img.shields.io/badge/openpyxl-2C2C2C)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B62?logo=n8n&logoColor=white)
 ![ISPmanager](https://img.shields.io/badge/ISPmanager-1f1f1f)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1)
+![openpyxl](https://img.shields.io/badge/openpyxl-2C2C2C)
 
 ---
 
 ## 🤖 AI-инструменты
 
 **Текстовые:**  
-![OpenAI / ChatGPT](https://img.shields.io/badge/OpenAI%20%2F%20ChatGPT-412991?logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
 ![GigaChat](https://img.shields.io/badge/GigaChat-2C2C2C)
 ![Яндекс GPT](https://img.shields.io/badge/Яндекс_GPT-FF0000?logo=yandex&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
@@ -64,25 +65,27 @@
 
 ## 📂 Проекты
 
-_Раздел будет пополняться по мере выкладывания работ._
+_Раздел пополняется по мере выкладывания новых работ._
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [News CLI](https://github.com/andreyko75/api_news_learn) | Консольный скрипт для поиска новостей по ключевым словам через NewsAPI. Учебный проект для освоения работы с API, обработки JSON и ошибок. | Python, requests, python-dotenv |
-| [Video Generator](https://github.com/andreyko75/pixabay_api) | Автоматическое создание маркетинговых видеороликов с логотипами через Pixabay API. Поиск видео, добавление логотипов, создание сетки 2x2. Учебный проект для освоения работы с видео API, MoviePy и автоматизации. | Python, MoviePy, requests, python-dotenv, tqdm |
-| [FusionBrain Image Generator](https://github.com/andreyko75/fusionbrain_api) | Генерация изображений с помощью ИИ через FusionBrain API (модель Kandinsky). Консольный и веб-клиент с современным интерфейсом, выбором размеров, копированием и скачиванием. Учебный проект для освоения работы с AI API, Flask и веб-разработки. | Python, Flask, requests, python-dotenv, Pillow, HTML5, CSS3, JavaScript |
-| [ChatGPT Assistant FSO](https://github.com/andreyko75/ChatGPT_Assistant_FSO) | Современный клиент для работы с ассистентами OpenAI через новый Responses API. Подключение к настроенному ассистенту, генерация тестов по ФСО, гибкие промпты через файлы. Учебный проект для освоения работы с OpenAI Assistant API и автоматизации образовательных задач. | Python, OpenAI API, python-dotenv, Responses API |
+| [pf_covenants_checker](https://github.com/andreyko75/pf_covenants_checker) | Проверка соответствия кредитных проектов минимальным ковенантам банка (LTV, LLCR, DSCR, Balloon). Используется LangChain и техники промпт-инжиниринга (Zero-Shot, Few-Shot, Chain-of-Verification). CLI-приложение с валидацией через Pydantic и JSON-форматом вывода. | Python, LangChain, OpenAI API, Pydantic, Typer, dotenv |
+| [ChatGPT Assistant FSO](https://github.com/andreyko75/ChatGPT_Assistant_FSO) | Ассистент для генерации тестов по Федеральным стандартам оценки. Использует новый OpenAI Responses API и кастомные системные промпты. | Python, OpenAI API, Responses API, dotenv |
+| [FusionBrain Image Generator](https://github.com/andreyko75/fusionbrain_api) | Генерация изображений через FusionBrain API (модель Kandinsky). Веб-клиент с интерфейсом, выбором размеров и скачиванием. | Python, Flask, requests, Pillow, HTML5, CSS3, JavaScript |
+| [Video Generator](https://github.com/andreyko75/pixabay_api) | Автоматическое создание маркетинговых видеороликов через Pixabay API. Поиск, обработка и сборка видео с логотипами. | Python, MoviePy, requests, dotenv, tqdm |
+| [News CLI](https://github.com/andreyko75/api_news_learn) | Консольный скрипт для поиска новостей по ключевым словам через NewsAPI. Учебный проект для освоения API и обработки JSON. | Python, requests, dotenv |
 
 ---
 
 ## 🎯 Цель репозитория
 Собрать **портфолио учебных и практических проектов** в одном месте.  
-Каждый проект — отдельная папка с кодом, документацией и описанием.
+Каждый проект — отдельная папка с кодом, документацией и описанием.  
+Цель — показать путь развития в промпт-инжиниринге, автоматизации и AI-разработке.
 
 ---
 
 ## 📬 Контакты
-- Email: andreyko75@gmail.com
+- Email: [andreyko75@gmail.com](mailto:andreyko75@gmail.com)
 - Telegram: [@hunter_xv](https://t.me/hunter_xv)
 - GitHub: [andreyko75](https://github.com/andreyko75)
 
