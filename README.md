@@ -1,7 +1,7 @@
 # Привет! 👋 Я Андрей
 
-Работаю с современными технологиями искусственного интеллекта, автоматизации и анализа данных.  
-Этот репозиторий — подборка учебных и прикладных проектов, в которых я проектирую и применяю AI-решения на практике.  
+Работаю с современными технологиями искусственного интеллекта, автоматизации и анализа данных. 
+Этот репозиторий — подборка учебных и прикладных проектов, в которых я проектирую и применяю AI-решения на практике.
 
 ---
 
@@ -20,13 +20,39 @@
 
 ## 🛠 Технологии и инструменты
 
+_Стеки всех репозиториев портфолио_
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2C2C2C)
-![OpenAI_API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2C2C2C)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?logo=langchain&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?logo=telegram&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-4D4D4D?logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B00?logo=chroma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-2C2C2C)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-404040)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-CLI-378BA3)
+![requests](https://img.shields.io/badge/requests-2496ED)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-3776AB?logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?logo=python&logoColor=white)
+![MoviePy](https://img.shields.io/badge/MoviePy-FF0000)
+![tqdm](https://img.shields.io/badge/tqdm-FFD700)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL·E-412991?logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-2C2C2C)
+![FusionBrain](https://img.shields.io/badge/FusionBrain_Kandinsky-FF6B00)
+![NewsAPI](https://img.shields.io/badge/NewsAPI-6BA539)
+![Pixabay](https://img.shields.io/badge/Pixabay-2C2C2C)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B62?logo=n8n&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -37,28 +63,21 @@
 
 ## 🤖 AI-модели и направления
 
-**Текст и логика:**  
+**Текст и логика:** 
 ChatGPT · GPT-4.1 · GPT-4o · LangChain · RAG
 
-**Компьютерное зрение (Vision):**  
+**Компьютерное зрение (Vision):** 
 GPT Vision · анализ изображений и документов · извлечение структурированных данных
 
-**Голос:**  
+**Голос:** 
 Text-to-Speech (TTS) · Speech-to-Text (STT) · генерация и транскрибация аудио
 
-**Изображения и визуал:**  
+**Изображения и визуал:** 
 DALL·E · генерация иллюстраций и визуальных концептов
 
-**Мультимодальность:**  
-Связки Image → JSON → Text → Audio  
+**Мультимодальность:** 
+Связки Image → JSON → Text → Audio 
 Комплексные сценарии обработки данных через несколько моделей
-
----
-
-<div align="center">
-  <img src="https://octodex.github.com/images/Robotocat.png" alt="Robotocat" width="200"><br>
-  <sub>Иногда я — этот кот. И это нормально.</sub>
-</div>
 
 ---
 
@@ -68,16 +87,17 @@ _В репозитории представлены выборочные про�
 
 | Проект | Описание | Стек |
 |------|----------|------|
-| [elf_lang](https://github.com/andreyko75/elf_lang) | Экспериментальный проект по созданию искусственного языка (DSL) для взаимодействия с LLM. Исследуется идея промежуточного «языка мышления» между человеком и моделью: формализация намерений, структурирование смысла, контроль интерпретаций и снижение неоднозначности промптов. Проект носит исследовательский характер и направлен на углублённое понимание логики работы LLM. | Python, Prompt Engineering, LLM |
-| [comp_analis](https://github.com/andreyko75/comp_analis) | Мультимодальный ассистент для анализа конкурентов. Поддерживает анализ текста, изображений и веб-сайтов (URL) с использованием GPT-4o. Реализован полный end-to-end пайплайн: Web UI (FastAPI) + нативное desktop-приложение для macOS (PyQt6). Включает Selenium-парсинг сайтов, строгие JSON-контракты ответов, историю запросов и REST API для интеграций. | Python, FastAPI, OpenAI API (GPT-4o, Vision), Selenium, PyQt6, PyInstaller |
-| [recept_info](https://github.com/andreyko75/recept_info) | Мультимодальный кулинарный ассистент (CLI + Flask). Принимает изображение блюда или аудиофайл с голосовым описанием, автоматически определяет блюдо, генерирует классический рецепт и создаёт реалистичное изображение блюда. Реализован полный мультимодальный пайплайн с выделенной бизнес-логикой и двумя интерфейсами. | Python, Flask, OpenAI API (GPT-4.1, Vision, Whisper, DALL·E 2), DeepSeek |
-| [analize_stamp](https://github.com/andreyko75/analize_stamp) | Мультимодальный анализ почтовых марок: GPT Vision для анализа изображений → структурированный JSON → генерация связного текстового и голосового описания (TTS). Проект демонстрирует полный мультимодальный пайплайн и контроль ограничений анализа. | Python, OpenAI API (GPT-4.1 Vision, TTS), JSON |
-| [tgbot_OpanAI_assist](https://github.com/andreyko75/tgbot_OpanAI_assist) | Telegram-бот с использованием OpenAI Assistants API. Отдельный контекст для каждого пользователя, асинхронная обработка сообщений. | Python, aiogram, OpenAI API |
-| [pf_covenants_checker](https://github.com/andreyko75/pf%5Fcovenants%5Fchecker) | Проверка банковских ковенантов (LTV, LLCR, DSCR). Используются LangChain и техники промпт-инжиниринга. | Python, LangChain, OpenAI API |
-| [ChatGPT Assistant FSO](https://github.com/andreyko75/ChatGPT%5FAssistant%5FFSO) | Генерация тестов по ФСО с использованием OpenAI Responses API и специализированных промптов. | Python, OpenAI API |
-| [FusionBrain Image Generator](https://github.com/andreyko75/fusionbrain%5Fapi) | Генерация изображений через FusionBrain (Kandinsky). Веб-интерфейс. | Python, Flask |
-| [Video Generator](https://github.com/andreyko75/pixabay%5Fapi) | Автоматическая сборка видеороликов из материалов Pixabay. | Python, MoviePy |
-| [News CLI](https://github.com/andreyko75/api%5Fnews%5Flearn) | Консольный инструмент для работы с NewsAPI. | Python, requests |
+| [RAG-assist](RAG-assist/) | RAG-ассистент с векторной базой Weaviate на VDS и генерацией ответов через OpenAI API. Отвечает на вопросы по загруженным документам, использует кеш (SQLite) и поддерживает оценку качества через RAGAS (Faithfulness, Context Precision). | Python, OpenAI API, Weaviate, SQLite, RAGAS |
+| [elf_lang](elf_lang/) | Экспериментальный проект по созданию искусственного языка (DSL) для взаимодействия с LLM. Исследуется идея промежуточного «языка мышления» между человеком и моделью: формализация намерений, структурирование смысла, контроль интерпретаций и снижение неоднозначности промптов. Проект носит исследовательский характер и направлен на углублённое понимание логики работы LLM. | Python, Prompt Engineering, LLM |
+| [comp_analis](comp_analis/) | Мультимодальный ассистент для анализа конкурентов. Поддерживает анализ текста, изображений и веб-сайтов (URL) с использованием GPT-4o. Реализован полный end-to-end пайплайн: Web UI (FastAPI) + нативное desktop-приложение для macOS (PyQt6). Включает Selenium-парсинг сайтов, строгие JSON-контракты ответов, историю запросов и REST API для интеграций. | Python, FastAPI, OpenAI API (GPT-4o, Vision), Selenium, PyQt6, PyInstaller |
+| [recept_info](recept_info/) | Мультимодальный кулинарный ассистент (CLI + Flask). Принимает изображение блюда или аудиофайл с голосовым описанием, автоматически определяет блюдо, генерирует классический рецепт и создаёт реалистичное изображение блюда. Реализован полный мультимодальный пайплайн с выделенной бизнес-логикой и двумя интерфейсами. | Python, Flask, OpenAI API (GPT-4.1, Vision, Whisper, DALL·E 2), DeepSeek |
+| [analize_stamp](analize_stamp/) | Мультимодальный анализ почтовых марок: GPT Vision для анализа изображений → структурированный JSON → генерация связного текстового и голосового описания (TTS). Проект демонстрирует полный мультимодальный пайплайн и контроль ограничений анализа. | Python, OpenAI API (GPT-4.1 Vision, TTS), JSON |
+| [tgbot_OpanAI_assist](tgbot_OpanAI_assist/) | Telegram-бот с использованием OpenAI Assistants API. Отдельный контекст для каждого пользователя, асинхронная обработка сообщений. | Python, aiogram, OpenAI API |
+| [pf_covenants_checker](pf_covenants_checker/) | Проверка банковских ковенантов (LTV, LLCR, DSCR). Используются LangChain и техники промпт-инжиниринга. | Python, LangChain, OpenAI API |
+| [ChatGPT_Assistant_FSO](ChatGPT_Assistant_FSO/) | Генерация тестов по ФСО с использованием OpenAI Responses API и специализированных промптов. | Python, OpenAI API |
+| [fusionbrain_api](fusionbrain_api/) | Генерация изображений через FusionBrain (Kandinsky). Веб-интерфейс. | Python, Flask |
+| [pixabay_api](pixabay_api/) | Автоматическая сборка видеороликов из материалов Pixabay. | Python, MoviePy |
+| [api_news_learn](api_news_learn/) | Консольный инструмент для работы с NewsAPI. | Python, requests |
 
 ---
 
@@ -100,7 +120,4 @@ _В репозитории представлены выборочные про�
 
 ---
 
-<div align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="200"><br>
-  <em>Интерес, системность и практика — ключевые инструменты.</em>
-</div>
+_Интерес, системность и практика — ключевые инструменты._
