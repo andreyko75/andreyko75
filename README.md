@@ -10,6 +10,8 @@
 - Разработка Telegram-ботов с AI-интеграцией (aiogram + OpenAI API)
 - Проектирование и разработка LLM-приложений и цепочек через LangChain
 - Применение и тестирование техник промпт-инжиниринга (Zero-Shot, Few-Shot, CoT, CoV)
+- A/B-тестирование промптов и оценка качества ответов (LLM-as-a-Judge)
+- Сравнение и бенчмаркинг локальных моделей (Ollama)
 - Автоматизация рабочих процессов через n8n и API-интеграции
 - Построение RAG-систем для поиска, анализа и обогащения данных
 - Развёртывание и сопровождение VDS-серверов (Linux Ubuntu, Nginx, SSL)
@@ -28,6 +30,7 @@ _Стеки всех репозиториев портфолио_
 ![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?logo=telegram&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-4D4D4D?logo=weaviate&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B00?logo=chroma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
@@ -67,7 +70,8 @@ _Стеки всех репозиториев портфолио_
 OpenAI: ChatGPT · GPT-4.1 · GPT-4o · Assistants API · Responses API  
 Российские и альтернативные: GigaChat · Yandex GPT  
 Глобальные: DeepSeek · Qwen · Kimi · Perplexity · Gemini  
-Инструменты: LangChain · RAG · RAGAS · промпт-инжиниринг (Zero-Shot, Few-Shot, CoT, CoV) · эмбеддинги и векторный поиск (Weaviate, ChromaDB)
+Локальные: Ollama (llama, gemma и др.) · сравнение моделей, бенчмарки  
+Инструменты: LangChain · RAG · RAGAS · промпт-инжиниринг (Zero-Shot, Few-Shot, CoT, CoV) · A/B-тесты промптов · LLM-as-a-Judge · эмбеддинги и векторный поиск (Weaviate, ChromaDB)
 
 **Компьютерное зрение (Vision):**  
 GPT Vision · анализ изображений и документов · извлечение структурированных данных · классификация и описание сцен · OCR и работа с текстом на изображениях
@@ -92,6 +96,7 @@ _В репозитории представлены выборочные про�
 
 | Проект | Описание | Стек |
 |------|----------|------|
+| [LMarena4ollama](https://github.com/andreyko75/LMarena4ollama) | Аналог LM Arena для слепого сравнения двух локальных моделей Ollama. Один промпт — двум моделям; ответы без подписи; голосование «Эта лучше»; результаты в JSON, архивация серий. | Python, Flask, Ollama |
 | [AB_test_for_prompts](https://github.com/andreyko75/AB_test_for_prompts) | A/B-тестирование двух вариантов промпта при генерации продающих постов для Telegram (товары LR). Датасет, ручная оценка метрик (релевантность, галлюцинации), формирование отчёта, опционально LLM-as-a-Judge. | Python, OpenAI API (gpt-4o-mini), python-dotenv |
 | [RAG-assist](https://github.com/andreyko75/RAG-assist) | RAG-ассистент с векторной базой Weaviate на VDS и генерацией ответов через OpenAI API. Отвечает на вопросы по загруженным документам, использует кеш (SQLite) и поддерживает оценку качества через RAGAS (Faithfulness, Context Precision). | Python, OpenAI API, Weaviate, SQLite, RAGAS |
 | [elf_lang](https://github.com/andreyko75/elf_lang) | Экспериментальный проект по созданию искусственного языка (DSL) для взаимодействия с LLM. Исследуется идея промежуточного «языка мышления» между человеком и моделью: формализация намерений, структурирование смысла, контроль интерпретаций и снижение неоднозначности промптов. Проект носит исследовательский характер и направлен на углублённое понимание логики работы LLM. | Python, Prompt Engineering, LLM |
@@ -111,7 +116,8 @@ _В репозитории представлены выборочные про�
 
 Собрать **портфолио прикладных и учебных проектов**, отражающих реальный подход к работе с:
 
-- LLM и промпт-инжинирингом,
+- LLM и промпт-инжинирингом, A/B-тестированием промптов и оценкой качества (RAGAS, LLM-as-a-Judge),
+- локальным развёртыванием и сравнением моделей (Ollama),
 - GPT Vision и мультимодальными моделями,
 - Text-to-Speech / Speech-to-Text,
 - автоматизацией и интеграцией AI в практические сценарии.
