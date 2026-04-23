@@ -96,6 +96,7 @@ _В репозитории представлены выборочные про�
 
 | Проект | Описание | Стек |
 |------|----------|------|
+| [LangChaih_FastAPI](https://github.com/andreyko75/LangChaih_FastAPI) | FastAPI‑обёртка над агентом LangFlow (отраслевой анализ) + локальная веб‑форма. Прокси-вызов LangFlow `/api/v1/run/{flow_id}`, режимы short/full, метрика latency_ms. | Python, FastAPI, LangFlow, Docker |
 | [LMarena4ollama](https://github.com/andreyko75/LMarena4ollama) | Аналог LM Arena для слепого сравнения двух локальных моделей Ollama. Один промпт — двум моделям; ответы без подписи; голосование «Эта лучше»; результаты в JSON, архивация серий. | Python, Flask, Ollama |
 | [AB_test_for_prompts](https://github.com/andreyko75/AB_test_for_prompts) | A/B-тестирование двух вариантов промпта при генерации продающих постов для Telegram (товары LR). Датасет, ручная оценка метрик (релевантность, галлюцинации), формирование отчёта, опционально LLM-as-a-Judge. | Python, OpenAI API (gpt-4o-mini), python-dotenv |
 | [RAG-assist](https://github.com/andreyko75/RAG-assist) | RAG-ассистент с векторной базой Weaviate на VDS и генерацией ответов через OpenAI API. Отвечает на вопросы по загруженным документам, использует кеш (SQLite) и поддерживает оценку качества через RAGAS (Faithfulness, Context Precision). | Python, OpenAI API, Weaviate, SQLite, RAGAS |
