@@ -27,38 +27,52 @@ _Стеки всех репозиториев портфолио_
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?logo=langchain&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?logo=telegram&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-111827)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2C2C2C)
+![httpx](https://img.shields.io/badge/httpx-2C2C2C)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white)
+
 ![Weaviate](https://img.shields.io/badge/Weaviate-4D4D4D?logo=weaviate&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B00?logo=chroma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 ![RAGAS](https://img.shields.io/badge/RAGAS-2C2C2C)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-CLI-378BA3)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-3776AB?logo=python&logoColor=white)
+![requests](https://img.shields.io/badge/requests-2496ED?logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-404040)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
-![Typer](https://img.shields.io/badge/Typer-CLI-378BA3)
-![requests](https://img.shields.io/badge/requests-2496ED)
-![python-dotenv](https://img.shields.io/badge/python--dotenv-3776AB?logo=python&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?logo=python&logoColor=white)
 ![MoviePy](https://img.shields.io/badge/MoviePy-FF0000)
 ![tqdm](https://img.shields.io/badge/tqdm-FFD700)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?logo=telegram&logoColor=white)
+
 ![Whisper](https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white)
-![DALL·E](https://img.shields.io/badge/DALL·E-412991?logo=openai&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL%C2%B7E-412991?logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-2C2C2C)
 ![FusionBrain](https://img.shields.io/badge/FusionBrain_Kandinsky-FF6B00)
+
 ![NewsAPI](https://img.shields.io/badge/NewsAPI-6BA539)
 ![Pixabay](https://img.shields.io/badge/Pixabay-2C2C2C)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker%20Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B62?logo=n8n&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
@@ -69,9 +83,9 @@ _Стеки всех репозиториев портфолио_
 **Текст и логика (LLM):**  
 OpenAI: ChatGPT · GPT-4.1 · GPT-4o · Assistants API · Responses API  
 Российские и альтернативные: GigaChat · Yandex GPT  
-Глобальные: DeepSeek · Qwen · Kimi · Perplexity · Gemini  
+Глобальные: DeepSeek · Qwen (2.5/3.5) · Kimi · Perplexity · Gemini  
 Локальные: Ollama (llama, gemma и др.) · сравнение моделей, бенчмарки  
-Инструменты: LangChain · RAG · RAGAS · промпт-инжиниринг (Zero-Shot, Few-Shot, CoT, CoV) · A/B-тесты промптов · LLM-as-a-Judge · эмбеддинги и векторный поиск (Weaviate, ChromaDB)
+Инструменты: LangChain · LangFlow · n8n · RAG · RAGAS · промпт-инжиниринг (Zero-Shot, Few-Shot, CoT, CoV) · A/B-тесты промптов · LLM-as-a-Judge · эмбеддинги и векторный поиск (Weaviate, ChromaDB)
 
 **Компьютерное зрение (Vision):**  
 GPT Vision · анализ изображений и документов · извлечение структурированных данных · классификация и описание сцен · OCR и работа с текстом на изображениях
@@ -87,7 +101,6 @@ Kling · Runway · Sora · Luma · Pika · Gemini · монтаж и сборк�
 
 **Мультимодальность:**  
 Связки Image → JSON → Text → Audio · комплексные пайплайны с несколькими моделями · единая бизнес-логика для CLI и веб · структурированный вывод (JSON, Pydantic)
-
 ---
 
 ## 📂 Проекты
